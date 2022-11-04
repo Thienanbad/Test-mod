@@ -9,5 +9,17 @@
 		"promotions": ["Interception III"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Land] units>"],
 		"attackSound": "shot"
+	},
+{
+		"name": "Sutherland 2", 
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 150,
+		"cost": 0,
+		"requiredTech": "Nuclear Fusion",
+		"promotions": ["Interception III"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Land] units>"],
+		"attackSound": "shot"
 	}
+]
 ]

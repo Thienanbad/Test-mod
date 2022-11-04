@@ -1,0 +1,13 @@
+[
+{
+		"name": "Sutherland", 
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 150,
+		"cost": 600,
+		"requiredTech": "Nuclear Fusion",
+		"promotions": ["Interception III"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Land] units>","Consumes [1] [Uranium]"],
+		"attackSound": "shot"
+	}
+]
